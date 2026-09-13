@@ -29,5 +29,8 @@ cloud-notes-app/
     └── app.js         # Client-side DOM manipulation & API requests
 
 
+---
+
+## ✍️ Author
 
 Made with ❤️ by **Avanthika** for **CodeChef VITC**.
