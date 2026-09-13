@@ -1,7 +1,8 @@
 # Cloud-Notes-App
-# ☁️ Whispers in the Cloud 
-A lightweight, full-stack notes application featuring an aesthetic diary-like user interface, a RESTful Node.js backend, and persistent local storage with SQLite. Configured for easy deployment on AWS EC2.
+## ☁️ Whispers in the Cloud 
 ---
+A lightweight, full-stack notes application featuring an aesthetic diary-like user interface, a RESTful Node.js backend, and persistent local storage with SQLite. Configured for easy deployment on AWS EC2.
+
 ## 🎨 Features
 * **Journal UI:** Styled after lined paper and leather-bound journals, featuring warm sepia tones and elegant typography.
 * **Full CRUD Functionality:**
@@ -23,9 +24,10 @@ cloud-notes-app/
 ├── database.js        # SQLite database connection & schema initialization
 ├── README.md          # Documentation
 └── public/
-
----
-Made with ❤️ by **Avanthika** for **CodeChef VITC**.
     ├── index.html     # Main HTML entry point
     ├── style.css      # Custom journal/paper styling
     └── app.js         # Client-side DOM manipulation & API requests
+
+
+
+Made with ❤️ by **Avanthika** for **CodeChef VITC**.
