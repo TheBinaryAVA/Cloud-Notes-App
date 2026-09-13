@@ -12,24 +12,6 @@ A lightweight, full-stack notes application featuring an aesthetic diary-like us
   * **Delete:** Remove unwanted notes.
 * **Responsive Layout:** Works seamlessly across mobile, tablet, and desktop devices.
 * **Zero-Config Database:** Embedded SQLite database running natively within Node.js.
-* **Production-Ready:** Configured for background execution using PM2 on cloud servers like AWS EC2.
-
----
-## 📁 Project Structure
-
-```text
-cloud-notes-app/
-├── package.json        # Backend dependencies and scripts
-├── server.js          # Express backend API & static routing
-├── database.js        # SQLite database connection & schema initialization
-├── README.md          # Documentation
-└── public/
-    ├── index.html     # Main HTML entry point
-    ├── style.css      # Custom journal/paper styling
-    └── app.js         # Client-side DOM manipulation & API requests
-
-
----
 
 ## ✍️ Author
 
